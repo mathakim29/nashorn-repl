@@ -47,7 +47,7 @@ class DynamicWhitelistFilter implements ClassFilter {
     }
 }
 
-public class NashornCLI {
+public class NashornREPL {
 
     public static void main(String... args) throws Exception {
         DynamicWhitelistFilter filter = new DynamicWhitelistFilter(

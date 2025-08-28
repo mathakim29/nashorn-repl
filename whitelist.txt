@@ -1,0 +1,3 @@
+# put your allowed classes in here
+java.lang.Math        # math functions
+java.util.Random      # for randomness
