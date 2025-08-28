@@ -29,7 +29,7 @@ jbang NashornRepl.java
 <!-- features -->
 <h3>Features</h3>
 <ul>
-    <li> Whitelist support with hot reloading (see <a href="">whitelist.txt</a>)</li>
+    <li> Whitelist support with hot reloading (see <a href="whitelist.txt">whitelist.txt</a>)</li>
 </ul>
 
 <h6> Tested on Fedora 41 </h6>
