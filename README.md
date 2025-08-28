@@ -1,5 +1,9 @@
 <h3 align="center">Nashorn REPL </h3> <h6 align="center"> (with JBang) </h6>
 
+<div align='center'>
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
+</div>
+
 ---
 
 <!-- table of contents -->
